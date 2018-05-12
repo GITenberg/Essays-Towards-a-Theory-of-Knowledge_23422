@@ -1,0 +1,30 @@
+_repo: Essays-Towards-a-Theory-of-Knowledge_23422
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Philip, Alexander
+    gutenberg_agent_id: '25833'
+    url: http://www.gutenberg.org/2009/agents/25833
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2007-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23422'
+  lccn: '19017486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Cycles'
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Force and energy'
+tableOfContents: Time and periodicity -- The origin of physical concepts -- The two
+  typical theories of knowledge -- The doctrine of energy.
+title: Essays Towards a Theory of Knowledge
+url: http://www.gutenberg.org/ebooks/23422
