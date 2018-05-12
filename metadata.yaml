@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25833'
     url: http://www.gutenberg.org/2009/agents/25833
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23422#Essays-Towards-a-Theory-of-Knowledge
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2007-11-09'
 gutenberg_type: Text
